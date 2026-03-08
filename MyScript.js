@@ -51,5 +51,12 @@
             listArea.insertAdjacentHTML("beforeend", html);
         });
     }
+    function deleteItem(index) {
+    let items = JSON.parse(localStorage.getItem("items")) || [];
+    items.splice(index, 1); // 指定した要素を削除
+    localStorage.setItem("items", JSON.stringify(items));
+    displayItems();
+    }
+items.reverse().forEach(...)
 </script>
 
