@@ -70,3 +70,17 @@ function addItem(rate){
     alert("登録完了！ログイン画面へ移動します");
     location.href = "login.html"; 
 }
+/* 画面全体を中央寄せにする設定 */
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.login-wrapper {
+    display: flex;
+    justify-content: center; /* 横方向の真ん中 */
+    align-items: center;     /* 縦方向の真ん中 */
+    height: 100vh;           /* 画面の高さ100%分 */
+    text-align: center;      /* 文字も真ん中に */
+}
+
