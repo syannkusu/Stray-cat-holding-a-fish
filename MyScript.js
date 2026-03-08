@@ -59,4 +59,14 @@
     }
 items.reverse().forEach(...)
 </script>
-
+function addItem(rate){
+    let name = document.getElementById("name").value;
+    if(!name){
+        alert("商品名を入力");
+        return;
+    }
+    
+    // 登録が終わったと仮定して移動
+    alert("登録完了！ログイン画面へ移動します");
+    location.href = "login.html"; 
+}
