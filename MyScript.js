@@ -3,7 +3,7 @@
         // Lを小文字に修正
         let name = document.getElementById("name").value;
         let file = document.getElementById("camera").files[0];
-        
+        let items=json.parse(localStorage.getItem)
         if(!name){
             alert("商品名を入力");
             return;
