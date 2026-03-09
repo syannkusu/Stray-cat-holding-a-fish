@@ -1,50 +1,30 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-<meta charset="UTF-8">
-<title>Merchandise</title>
-<link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-
-<div class="container">
-
-<h1>Merchandise ☀</h1>
-
-<button class="btn"onclick="location.href='login.html'">新規登録</button>
-
-<button class="btn" onclick="location.href='login.html'">ログイン</button>
-
-<form action="merchandise.html">
-</div>
-
-</body>
-
-</html>
-
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Login</title>
-</head>
-
-<body>
-
-
-</form>
-
-</body>
-</html>
-<head>
     <meta charset="UTF-8">
-    <title>merchandise</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Merchandise</title>
     <link rel="stylesheet" href="style.css">
-    <script src="script.js"></script>
+    <script src="script.js" defer></script>
 </head>
 <body>
+    <div class="container">
+        <h1>Merchandise ☀</h1>
+        
+        <!-- ボタン：クリックで指定のページへ遷移 -->
+        <button type="button" class="btn" onclick="location.href='signup.html'">新規登録</button>
+        <button type="button" class="btn" onclick="location.href='login.html'">ログイン</button>
 
-    
-
+        <!-- 検索や注文フォームが必要な場合はここに記述 -->
+        <form action="search_result.html" method="GET">
+            <input type="text" name="query" placeholder="商品を検索...">
+            <button type="submit">検索</button>
+        </form>
+    </div>
 </body>
 </html>
+<div class="container">
+    <h1>Merchandise ☀</h1>
+    <button type="button" class="btn btn-signup" onclick="location.href='signup.html'">新規登録</button>
+    <button type="button" class="btn btn-login" onclick="location.href='login.html'">ログイン</button>
+</div>
