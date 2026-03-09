@@ -76,3 +76,15 @@ body {
   display: grid;
   place-items: center; /* 1行で上下左右中央に配置 */
 }
+/.login-container {
+    background-color: transparent !important; /* 背景色を透明に */
+    box-shadow: none !important;             /* 外側の影も消す場合 */
+    border: none !important;                   /* 枠線も消す場合 */
+}
+* display: none を使うと、そこになかったことになります */
+.login-container {
+    background-color: transparent !important; /* 背景色を透明に */
+    box-shadow: none !important;             /* 外側の影も消す場合 */
+    border: none !important;                   /* 枠線も消す場合 */
+}
+
