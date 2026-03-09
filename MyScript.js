@@ -86,3 +86,7 @@ function loginCheck() {
         alert("ユーザー名とパスワードを入力してください。");
     }
 }
+// HTML側に onclick="goToRegister()" を追加して使います
+function goToRegister() {
+    window.location.href = "register.html"; // 登録画面のファイル名
+}
