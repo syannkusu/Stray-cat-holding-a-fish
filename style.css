@@ -81,10 +81,4 @@ body {
     box-shadow: none !important;             /* 外側の影も消す場合 */
     border: none !important;                   /* 枠線も消す場合 */
 }
-* display: none を使うと、そこになかったことになります */
-.login-container {
-    background-color: transparent !important; /* 背景色を透明に */
-    box-shadow: none !important;             /* 外側の影も消す場合 */
-    border: none !important;                   /* 枠線も消す場合 */
-}
 
