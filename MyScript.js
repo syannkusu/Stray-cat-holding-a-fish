@@ -71,3 +71,18 @@ function addItem(rate){
     location.href = "login.html"; 
 }
 /* 画面全体を中央寄せにする設定 */
+function loginCheck() {
+    // 入力値を取得
+    const user = document.getElementById('username').value;
+    const pass = document.getElementById('password').value;
+
+    // 簡単なチェック（例：空欄でないか）
+    if (user !== "" && pass !== "") {
+        alert("ログイン成功！次のページへ移動します。");
+        
+        // 別の画面（URL）に移動するコード
+        window.location.href = "home.html"; 
+    } else {
+        alert("ユーザー名とパスワードを入力してください。");
+    }
+}
