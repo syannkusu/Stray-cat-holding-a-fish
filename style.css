@@ -70,3 +70,9 @@ body, html {
     height: 100vh;           /* 画面の高さ100%分 */
     text-align: center;      /* 文字も真ん中に */
 }
+body {
+  margin: 0;
+  height: 100vh;
+  display: grid;
+  place-items: center; /* 1行で上下左右中央に配置 */
+}
