@@ -81,4 +81,10 @@ body {
     box-shadow: none !important;             /* 外側の影も消す場合 */
     border: none !important;                   /* 枠線も消す場合 */
 }
+form {
+    background-color: transparent; /* 背景を透明にする */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: none; /* 影があると白っぽく見えるので、影も消す */
+}
 
