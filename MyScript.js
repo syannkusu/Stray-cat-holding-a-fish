@@ -1,6 +1,6 @@
 window.onload = displayItems;
 // JavaScriptのコード
-window.location.href = 'signup.html';
+window.location.href = 'time.html';
 
 function addItem(rate) {
     const name = document.getElementById("name").value;
