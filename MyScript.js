@@ -90,3 +90,4 @@ function loginCheck() {
 function goToRegister() {
     window.location.href = "register.html"; // 登録画面のファイル名
 }
+window.location.href = "time.html";
