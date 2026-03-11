@@ -210,3 +210,14 @@ circle.style.left="0px"
 
 </body>
 </html>
+<?php
+session_start();
+
+// ログインしていない場合はログイン画面に強制送還
+if (!isset($_SESSION['user_login'])) {
+    header('Location: index.html');
+    exit;
+}
+?>
+<!-- ここから下に time.html の中身を書く -->
+<h1>ログイン成功！限定コンテンツです。</h1>
