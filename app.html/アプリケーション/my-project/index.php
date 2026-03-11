@@ -3,7 +3,7 @@ http://localhost/my_project/index.php
 $host = "localhost";
 $user = "root";
 $pass = "root"; // MAMPのデフォルトパスワード
-$dbname = "test_db"; // あなたが作ったデータベース名
+$dbname = "RYOUHEI ISHII"; // あなたが作ったデータベース名
 
 try {
     // PDOという仕組みを使って接続します
