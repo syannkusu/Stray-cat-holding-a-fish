@@ -10,12 +10,13 @@ import {
   Sun,
 } from "lucide-react"
 // 12行目あたりからのインポート文をこれに書き換える
+// インポート文をこれに書き換えてください
 import { AlarmClock } from "@/ui/components/alarm-clock"
 import { ContactNotebook } from "@/ui/components/contact-notebook"
 import { ItemChecklist } from "@/ui/components/item-checklist"
 import { GroomingCheck } from "@/ui/components/grooming-check"
 import { HomeworkTracker } from "@/ui/components/homework-tracker"
-import { cn } from "@/lib/utils" // 👈 画像を見ると lib はルートにあるので ui/ は不要です
+import { Todo } from "@/ui/components/todo" // todo.tsxがある場合
 
 
 type Tab = "alarm" | "notebook" | "checklist" | "grooming" | "homework"
