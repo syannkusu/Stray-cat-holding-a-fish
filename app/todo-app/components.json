@@ -1,13 +1,10 @@
-  {
-  "componentName": "TodoItem",
-  "status": "active"
-}
+{
   "$schema": "https://ui.shadcn.com",
   "style": "new-york",
   "rsc": true,
   "tsx": true,
   "tailwind": {
-    "config": "",
+    "config": "tailwind.config.js",
     "css": "app/globals.css",
     "baseColor": "neutral",
     "cssVariables": true,
@@ -22,3 +19,4 @@
   },
   "iconLibrary": "lucide"
 }
+
