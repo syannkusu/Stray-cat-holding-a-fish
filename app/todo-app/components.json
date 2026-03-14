@@ -1,3 +1,7 @@
+  {
+  "componentName": "TodoItem",
+  "status": "active"
+}
   "$schema": "https://ui.shadcn.com",
   "style": "new-york",
   "rsc": true,
