@@ -16,7 +16,11 @@ import { ContactNotebook } from "@/ui/components/contact-notebook"
 import { ItemChecklist } from "@/ui/components/item-checklist"
 import { GroomingCheck } from "@/ui/components/grooming-check"
 import { HomeworkTracker } from "@/ui/components/homework-tracker"
-import { Todo } from "@/ui/components/todo" // todo.tsxがある場合
+// page.tsx の19行目あたり
+// page.tsx の19行目あたり
+import Todo from "@/ui/components/todo";
+import { cn } from "@/lib/utils";
+
 
 
 type Tab = "alarm" | "notebook" | "checklist" | "grooming" | "homework"
