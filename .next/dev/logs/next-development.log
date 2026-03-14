@@ -6493,3 +6493,579 @@ Import traces:
     ./app/page.tsx [Server Component]
 
 https://nextjs.org/docs/messages/module-not-found
+[01:15:56.050] Server  ERROR   ⨯ ./app/page.tsx:12:1
+Module not found: Can't resolve '@/ui/components/alarm-clock'
+  10 |   Sun,
+  11 | } from "lucide-react"
+> 12 | import { AlarmClock } from "@/ui/components/alarm-clock"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  13 | import { ContactNotebook } from "@/ui/components/contact-notebook"
+  14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.051] Server  ERROR   ⨯ ./app/page.tsx:12:1
+Module not found: Can't resolve '@/ui/components/alarm-clock'
+  10 |   Sun,
+  11 | } from "lucide-react"
+> 12 | import { AlarmClock } from "@/ui/components/alarm-clock"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  13 | import { ContactNotebook } from "@/ui/components/contact-notebook"
+  14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.052] Server  ERROR   ⨯ ./app/page.tsx:12:1
+Module not found: Can't resolve '@/ui/components/alarm-clock'
+  10 |   Sun,
+  11 | } from "lucide-react"
+> 12 | import { AlarmClock } from "@/ui/components/alarm-clock"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  13 | import { ContactNotebook } from "@/ui/components/contact-notebook"
+  14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.053] Server  ERROR   ⨯ ./app/page.tsx:12:1
+Module not found: Can't resolve '@/ui/components/alarm-clock'
+  10 |   Sun,
+  11 | } from "lucide-react"
+> 12 | import { AlarmClock } from "@/ui/components/alarm-clock"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  13 | import { ContactNotebook } from "@/ui/components/contact-notebook"
+  14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.054] Server  ERROR   ⨯ ./app/page.tsx:13:1
+Module not found: Can't resolve '@/ui/components/contact-notebook'
+  11 | } from "lucide-react"
+  12 | import { AlarmClock } from "@/ui/components/alarm-clock"
+> 13 | import { ContactNotebook } from "@/ui/components/contact-notebook"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+  16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.055] Server  ERROR   ⨯ ./app/page.tsx:13:1
+Module not found: Can't resolve '@/ui/components/contact-notebook'
+  11 | } from "lucide-react"
+  12 | import { AlarmClock } from "@/ui/components/alarm-clock"
+> 13 | import { ContactNotebook } from "@/ui/components/contact-notebook"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+  16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.056] Server  ERROR   ⨯ ./app/page.tsx:13:1
+Module not found: Can't resolve '@/ui/components/contact-notebook'
+  11 | } from "lucide-react"
+  12 | import { AlarmClock } from "@/ui/components/alarm-clock"
+> 13 | import { ContactNotebook } from "@/ui/components/contact-notebook"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+  16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.057] Server  ERROR   ⨯ ./app/page.tsx:13:1
+Module not found: Can't resolve '@/ui/components/contact-notebook'
+  11 | } from "lucide-react"
+  12 | import { AlarmClock } from "@/ui/components/alarm-clock"
+> 13 | import { ContactNotebook } from "@/ui/components/contact-notebook"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+  16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.057] Server  ERROR   ⨯ ./app/page.tsx:15:1
+Module not found: Can't resolve '@/ui/components/grooming-check'
+  13 | import { ContactNotebook } from "@/ui/components/contact-notebook"
+  14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+> 15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+  17 | import { cn } from "@/ui/lib/utils" 
+  18 |
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.058] Server  ERROR   ⨯ ./app/page.tsx:15:1
+Module not found: Can't resolve '@/ui/components/grooming-check'
+  13 | import { ContactNotebook } from "@/ui/components/contact-notebook"
+  14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+> 15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+  17 | import { cn } from "@/ui/lib/utils" 
+  18 |
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.059] Server  ERROR   ⨯ ./app/page.tsx:15:1
+Module not found: Can't resolve '@/ui/components/grooming-check'
+  13 | import { ContactNotebook } from "@/ui/components/contact-notebook"
+  14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+> 15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+  17 | import { cn } from "@/ui/lib/utils" 
+  18 |
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.060] Server  ERROR   ⨯ ./app/page.tsx:15:1
+Module not found: Can't resolve '@/ui/components/grooming-check'
+  13 | import { ContactNotebook } from "@/ui/components/contact-notebook"
+  14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+> 15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+  17 | import { cn } from "@/ui/lib/utils" 
+  18 |
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.061] Server  ERROR   ⨯ ./app/page.tsx:16:1
+Module not found: Can't resolve '@/ui/components/homework-tracker'
+  14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+> 16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  17 | import { cn } from "@/ui/lib/utils" 
+  18 |
+  19 | type Tab = "alarm" | "notebook" | "checklist" | "grooming" | "homework"
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.062] Server  ERROR   ⨯ ./app/page.tsx:16:1
+Module not found: Can't resolve '@/ui/components/homework-tracker'
+  14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+> 16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  17 | import { cn } from "@/ui/lib/utils" 
+  18 |
+  19 | type Tab = "alarm" | "notebook" | "checklist" | "grooming" | "homework"
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.063] Server  ERROR   ⨯ ./app/page.tsx:16:1
+Module not found: Can't resolve '@/ui/components/homework-tracker'
+  14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+> 16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  17 | import { cn } from "@/ui/lib/utils" 
+  18 |
+  19 | type Tab = "alarm" | "notebook" | "checklist" | "grooming" | "homework"
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.064] Server  ERROR   ⨯ ./app/page.tsx:16:1
+Module not found: Can't resolve '@/ui/components/homework-tracker'
+  14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+> 16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  17 | import { cn } from "@/ui/lib/utils" 
+  18 |
+  19 | type Tab = "alarm" | "notebook" | "checklist" | "grooming" | "homework"
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.064] Server  ERROR   ⨯ ./app/page.tsx:14:1
+Module not found: Can't resolve '@/ui/components/item-checklist'
+  12 | import { AlarmClock } from "@/ui/components/alarm-clock"
+  13 | import { ContactNotebook } from "@/ui/components/contact-notebook"
+> 14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+  16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+  17 | import { cn } from "@/ui/lib/utils" 
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.065] Server  ERROR   ⨯ ./app/page.tsx:14:1
+Module not found: Can't resolve '@/ui/components/item-checklist'
+  12 | import { AlarmClock } from "@/ui/components/alarm-clock"
+  13 | import { ContactNotebook } from "@/ui/components/contact-notebook"
+> 14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+  16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+  17 | import { cn } from "@/ui/lib/utils" 
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.066] Server  ERROR   ⨯ ./app/page.tsx:14:1
+Module not found: Can't resolve '@/ui/components/item-checklist'
+  12 | import { AlarmClock } from "@/ui/components/alarm-clock"
+  13 | import { ContactNotebook } from "@/ui/components/contact-notebook"
+> 14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+  16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+  17 | import { cn } from "@/ui/lib/utils" 
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.067] Server  ERROR   ⨯ ./app/page.tsx:14:1
+Module not found: Can't resolve '@/ui/components/item-checklist'
+  12 | import { AlarmClock } from "@/ui/components/alarm-clock"
+  13 | import { ContactNotebook } from "@/ui/components/contact-notebook"
+> 14 | import { ItemChecklist } from "@/ui/components/item-checklist"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+  16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+  17 | import { cn } from "@/ui/lib/utils" 
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.068] Server  ERROR   ⨯ ./app/page.tsx:17:1
+Module not found: Can't resolve '@/ui/lib/utils'
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+  16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+> 17 | import { cn } from "@/ui/lib/utils" 
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | type Tab = "alarm" | "notebook" | "checklist" | "grooming" | "homework"
+  20 |
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.068] Server  ERROR   ⨯ ./app/page.tsx:17:1
+Module not found: Can't resolve '@/ui/lib/utils'
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+  16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+> 17 | import { cn } from "@/ui/lib/utils" 
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | type Tab = "alarm" | "notebook" | "checklist" | "grooming" | "homework"
+  20 |
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.069] Server  ERROR   ⨯ ./app/page.tsx:17:1
+Module not found: Can't resolve '@/ui/lib/utils'
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+  16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+> 17 | import { cn } from "@/ui/lib/utils" 
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | type Tab = "alarm" | "notebook" | "checklist" | "grooming" | "homework"
+  20 |
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:15:56.069] Server  ERROR   ⨯ ./app/page.tsx:17:1
+Module not found: Can't resolve '@/ui/lib/utils'
+  15 | import { GroomingCheck } from "@/ui/components/grooming-check"
+  16 | import { HomeworkTracker } from "@/ui/components/homework-tracker"
+> 17 | import { cn } from "@/ui/lib/utils" 
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  18 |
+  19 | type Tab = "alarm" | "notebook" | "checklist" | "grooming" | "homework"
+  20 |
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
