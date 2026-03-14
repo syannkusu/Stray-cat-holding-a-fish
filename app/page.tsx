@@ -9,7 +9,8 @@ import {
   BookMarked,
   Sun,
 } from "lucide-react"
-import { AlarmClock } from "@/app/ui/components/alarm-clock";
+
+import { AlarmClock } from "../ui/components/alarm-clock" 
 import { ContactNotebook } from "@/ui/components/contact-notebook"
 import { ItemChecklist } from "@/ui/components/item-checklist"
 import { GroomingCheck } from "@/ui/components/grooming-check"
