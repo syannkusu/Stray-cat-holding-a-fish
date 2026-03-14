@@ -22,11 +22,9 @@
         "name": "next"
       }
     ],
-"paths": {
-  "@/*": ["./*"] 
-}
-
-
+    "paths": {
+      "@/*": ["./*"]
+    }
   },
   "include": [
     "next-env.d.ts",
@@ -38,7 +36,4 @@
   "exclude": [
     "node_modules"
   ]
-}
-{
-  
 }

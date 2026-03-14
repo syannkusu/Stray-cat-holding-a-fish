@@ -9,13 +9,14 @@ import {
   BookMarked,
   Sun,
 } from "lucide-react"
-
-import { AlarmClock } from "@/ui/@/components /ui/components/alarm-clock"
+// 12行目あたりからのインポート文をこれに書き換える
+import { AlarmClock } from "@/ui/components/alarm-clock"
 import { ContactNotebook } from "@/ui/components/contact-notebook"
 import { ItemChecklist } from "@/ui/components/item-checklist"
 import { GroomingCheck } from "@/ui/components/grooming-check"
 import { HomeworkTracker } from "@/ui/components/homework-tracker"
-import { cn } from "@/ui/lib/utils" 
+import { cn } from "@/lib/utils" // 👈 画像を見ると lib はルートにあるので ui/ は不要です
+
 
 type Tab = "alarm" | "notebook" | "checklist" | "grooming" | "homework"
 
